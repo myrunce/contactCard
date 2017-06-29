@@ -1,4 +1,36 @@
+#wrapper{
+    width:900px;
+    height: 900px;
+}
+
 textarea.info{
     height: 100px;
     width: 300px;
+}
+
+.information{
+    width:300px;
+    height: 300px;
+    display: inline-block
+}
+.contacts{
+    width: 400px;
+    height: 700px;
+    vertical-align: top;
+    display: inline-block;
+    margin-left: 180px
+}
+.newContact{
+    width: 380px;
+    height: 250px;
+    border: solid black 5px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+.newContact p{
+    margin-top: 100px;
+}
+
+.newContact h1{
+    margin-top: 70px;
 }
